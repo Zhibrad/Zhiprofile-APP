@@ -17,7 +17,7 @@
 - [AWS Services Used](#aws-services-used)
 - [Skills Demonstrated](#skills-demonstrated)
 
-- Deployment Guide
+**Deployment Guide**
 
 - [Deployment Workflow](#deployment-workflow)
 - [Step 1 – Creating the EC2 Key Pair](#step-1--creating-the-ec2-key-pair)
@@ -31,7 +31,7 @@
 - [Step 9 – Deploying the Artifact to Tomcat](#step-9--deploying-the-artifact-to-tomcat)
 - [Common Deployment Issues](#common-deployment-issues)
 
-- Production Deployment
+**Production Deployment**
 
 - [Why Production Deployment Matters](#why-production-deployment-matters)
 - [Step 10 – Creating an SSL Certificate with AWS Certificate Manager](#step-10--creating-an-ssl-certificate-with-aws-certificate-manager-acm)
@@ -49,7 +49,7 @@
 - [Production Best Practices Implemented](#production-best-practices-implemented)
 - [Conclusion](#conclusion)
 
-– Operational Excellence
+ **Operational Excellence**
 
 - [Security First: Protecting the Cloud Environment](#security-first-protecting-the-cloud-environment)
 - [Monitoring and Observability](#monitoring-and-observability)
