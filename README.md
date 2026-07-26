@@ -1,4 +1,4 @@
-# 🚀 ZhIProfile APP: Migrating a Multi-Tier Web Application to AWS Using the Lift-and-Shift Strategy
+# 🚀 ZhiProfile APP: Migrating a Multi-Tier Web Application to AWS Using the Lift-and-Shift Strategy
 
 > **Building a Highly Available, Secure, and Scalable Multi-Tier Web Application on Amazon Web Services (AWS)**
 
