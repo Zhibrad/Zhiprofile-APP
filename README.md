@@ -525,7 +525,7 @@ When a Key Pair is created:
 * You download the private key (`.pem` file).
 * The private key is used to establish secure SSH connections.
 
-<img width="993" height="801" alt="Screenshot 2026-07-22 192215" src="https://github.com/user-attachments/assets/3fd32ad6-ebb5-4bfa-8263-49251b0e5a19" />
+<img width="1547" height="257" alt="image" src="https://github.com/user-attachments/assets/2f6509b1-5caf-4940-a91d-5e2c9b784c6c" />
 
 This approach is significantly more secure than password-based authentication.
 
@@ -715,11 +715,7 @@ Example tasks performed by User Data:
 * Configure startup services
 
 Automation reduces human error and is the first step toward Infrastructure as Code (IaC).
-
-<img width="1276" height="986" alt="Screenshot 2026-07-22 201921" src="https://github.com/user-attachments/assets/a6973a38-254c-49af-b3f1-d5d7ca262af5" />
-<img width="521" height="231" alt="Screenshot 2026-07-22 201933" src="https://github.com/user-attachments/assets/bf7c1310-7a4d-458a-856c-658f66c6fe16" />
-<img width="1178" height="589" alt="Screenshot 2026-07-22 202443" src="https://github.com/user-attachments/assets/7c624154-99a4-47a0-923b-072e8e08c0f9" />
-<img width="1919" height="837" alt="Screenshot 2026-07-22 202753" src="https://github.com/user-attachments/assets/f640276e-aaa6-4891-bb73-fe5f17d80889" />
+<img width="1066" height="831" alt="image" src="https://github.com/user-attachments/assets/b5a583c2-b368-4dd1-975d-662f0e96e64e" />
 ---
 
 # Step 5 – Configuring Route 53 Private DNS
