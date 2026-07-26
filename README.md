@@ -2,26 +2,68 @@
 
 > **Building a Highly Available, Secure, and Scalable Multi-Tier Web Application on Amazon Web Services (AWS)**
 
----
 
-# Table of Contents
+# 📑 Table of Contents
 
-1. Introduction
-2. Project Overview
-3. Why Lift and Shift?
-4. Business Problem
-5. Project Objectives
-6. Solution Overview
-7. AWS Architecture Overview
-8. Technology Stack
-9. AWS Services Used
-10. High-Level Architecture
-11. Request Flow
-12. Infrastructure Design Decisions
-13. Project Deliverables
-14. Skills Demonstrated
-15. What's Next
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [What is Lift-and-Shift?](#what-is-lift-and-shift)
+- [Why Choose Lift-and-Shift?](#why-choose-lift-and-shift)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Solution Overview](#solution-overview)
+- [AWS Architecture Overview](#aws-architecture-overview)
+- [Technology Stack](#technology-stack)
+- [AWS Services Used](#aws-services-used)
+- [Skills Demonstrated](#skills-demonstrated)
 
+- Deployment Guide
+
+- [Deployment Workflow](#deployment-workflow)
+- [Step 1 – Creating the EC2 Key Pair](#step-1--creating-the-ec2-key-pair)
+- [Step 2 – Creating Security Groups](#step-2--creating-security-groups)
+- [Step 3 – Launching EC2 Instances](#step-3--launching-ec2-instances)
+- [Step 4 – Automating Server Configuration with User Data](#step-4--automating-server-configuration-with-user-data)
+- [Step 5 – Configuring Route 53 Private DNS](#step-5--configuring-route-53-private-dns)
+- [Step 6 – Preparing the Application Source Code](#step-6--preparing-the-application-source-code)
+- [Step 7 – Building the Application](#step-7--building-the-application)
+- [Step 8 – Creating the Amazon S3 Bucket](#step-8--creating-the-amazon-s3-bucket)
+- [Step 9 – Deploying the Artifact to Tomcat](#step-9--deploying-the-artifact-to-tomcat)
+- [Common Deployment Issues](#common-deployment-issues)
+
+- Production Deployment
+
+- [Why Production Deployment Matters](#why-production-deployment-matters)
+- [Step 10 – Creating an SSL Certificate with AWS Certificate Manager](#step-10--creating-an-ssl-certificate-with-aws-certificate-manager-acm)
+- [Step 11 – Creating the Application Load Balancer](#step-11--creating-the-application-load-balancer-alb)
+- [Step 12 – Creating a Target Group](#step-12--creating-a-target-group)
+- [Health Check Configuration](#health-check-configuration)
+- [Step 13 – Configuring HTTPS Listeners](#step-13--configuring-https-listeners)
+- [Step 14 – Connecting GoDaddy Domain to AWS](#step-14--connecting-godaddy-domain-to-aws)
+- [Step 15 – Verifying the Entire Application](#step-15--verifying-the-entire-application)
+- [Step 16 – Amazon EFS Shared Storage](#step-16--amazon-efs-shared-storage)
+- [Step 17 – Building the Auto Scaling Group](#step-17--building-the-auto-scaling-group)
+- [Monitoring with Amazon CloudWatch](#monitoring-with-amazon-cloudwatch)
+- [High Availability Strategy](#high-availability-strategy)
+- [End-to-End Request Flow](#end-to-end-request-flow)
+- [Production Best Practices Implemented](#production-best-practices-implemented)
+- [Conclusion](#conclusion)
+
+– Operational Excellence
+
+- [Security First: Protecting the Cloud Environment](#security-first-protecting-the-cloud-environment)
+- [Monitoring and Observability](#monitoring-and-observability)
+- [Logging Strategy](#logging-strategy)
+- [Backup and Disaster Recovery](#backup-and-disaster-recovery)
+- [Cost Optimisation](#cost-optimisation)
+- [Challenges Encountered](#challenges-encountered)
+- [Lessons Learned](#lessons-learned)
+- [Business Impact](#business-impact)
+- [Skills Demonstrated](#skills-demonstrated-1)
+- [Future Improvements](#future-improvements)
+- [Recruiter Highlights](#recruiter-highlights)
+- [Portfolio Summary](#portfolio-summary)
+- [Final Thoughts](#final-thoughts)
 ---
 
 # Introduction
