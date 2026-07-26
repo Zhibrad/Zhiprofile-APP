@@ -1422,7 +1422,7 @@ https://www.zhibrad.xyz
 Inside GoDaddy:
 
 Create a CNAME record.
-<img width="1802" height="567" alt="Screenshot 2026-07-25 181728" src="https://github.com/user-attachments/assets/238f88bb-67a8-4d9b-b08c-f3b0e7fab63a" />
+<img width="1362" height="63" alt="image" src="https://github.com/user-attachments/assets/a5d1740f-39ad-43f7-8cce-a16bdfd14f27" />
 
 Example:
 
